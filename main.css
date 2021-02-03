@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+  }
+  
+
+.container {
+width:1360;
+
+background-color: gold;
+
+}
+
+.post1 {
+
+    width: 30%;
+    background-color: red;
+    float:right;
+    padding: 0px 50px 0px 40px;
+    margin-right: 42px;
+    }
+
+.post2 {
+    
+width: 30%;
+background-color: red;
+float:right;
+padding: 0px 30px 0px 60px;
+margin-right: 45px;
+}
+.post3 {
+    
+width: 30%;
+background-color: red;
+padding: 0px 60px 0px 35px;
+
+}
+
+.clearfix {
+    clear: both;
+    }
